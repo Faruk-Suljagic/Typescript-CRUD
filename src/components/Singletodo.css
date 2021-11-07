@@ -1,0 +1,24 @@
+#actives {
+    padding: unset;
+    background-color: unset;
+    color: black;
+    width: unset;
+    height: unset;
+}
+.marg {
+    margin: 0px 5px;
+}
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.form p {
+    margin-left: 15%;
+}
+.editInput {
+    width: 70%;
+    border: 2px solid rgba(128, 128, 128, 0.342) !important;
+    border-radius: unset;
+}

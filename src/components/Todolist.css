@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  background-color: #fff;
+  max-width: 286px;
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 4px;
+}
+.list {
+  display: flex;
+  width: 98%;
+  margin: 5px 0px;
+  padding: 8px 10px;
+  word-break: break-all;
+  text-align: left;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
